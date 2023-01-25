@@ -41,7 +41,7 @@
     "typescript": "^3.9.7"
   },
   "main": "_bundles/ui-router-react-hybrid.js",
-  "module": "lib-esm/index.js",
+  "module": "./lib-esm/index.js",
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",

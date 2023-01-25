@@ -60,7 +60,7 @@ function isExternal(id) {
 }
 
 const CONFIG = {
-  input: 'lib-esm/index.js',
+  input: './lib-esm/index.js',
   output: {
     name: '@uirouter/react-hybrid',
     file: '_bundles/ui-router-react-hybrid' + extension,

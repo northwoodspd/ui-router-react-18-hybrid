@@ -47,6 +47,16 @@
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/willemorvets/react-hybrid-18.git"
-  }
+    "url": "git+https://github.com/willemorvets/react-hybrid-18.git"
+  },
+  "description": "### UI-Router support for Hybrid Angular/React apps",
+  "bugs": {
+    "url": "https://github.com/willemorvets/react-hybrid-18/issues"
+  },
+  "homepage": "https://github.com/willemorvets/react-hybrid-18#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib"
+  },
+  "author": ""
 }

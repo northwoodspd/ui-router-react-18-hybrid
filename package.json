@@ -1,6 +1,6 @@
 {
-  "name": "@uirouter/react-hybrid",
-  "version": "1.0.5",
+  "name": "ui-router-react-18-hybrid-fork",
+  "version": "1.0.0",
   "scripts": {
     "clean": "shx rm -rf lib lib-esm _bundles",
     "compile": "npm run clean && tsc && tsc --module es6 --outDir lib-esm",
@@ -47,6 +47,6 @@
   "typings": "lib/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ui-router/react-hybrid.git"
+    "url": "https://github.com/willemorvets/react-hybrid-18.git"
   }
 }
